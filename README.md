@@ -22,9 +22,9 @@ Page:
 
 Requirements
 ------------
-* Python 2.7 up.
+* Python 2.7 up
 
-* OpenCV
+* OpenCV 2.4.9
 
 * iPython 2.2.0
 
